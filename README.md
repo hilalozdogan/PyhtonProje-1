@@ -1,6 +1,6 @@
 # PyhtonProje-1
 
-## GENEL BİLGİLER
+### GENEL BİLGİLER
 
 ### Hemofili Hastalığı:
 Pıhtılaşma sürecinde rol oynayan proteinlere, pıhtılaşma faktörleri denilmektedir. Bu faktörlerin eksikliği durumunda oluşan pıhtılaşma bozukluğuna, genel olarak kanama hastalıkları denilmektedir. En yaygın olarak görülen kanama hastalıkları ise, faktör-8 proteininin eksikliği olarak bilinen Hemofili-A ve faktör-9 proteininin eksikliği olarak bilinen Hemofili-B hastalıklarıdır.
@@ -24,7 +24,7 @@ Bazı hemofili hastalarının bağışıklık sistemi, verilen faktör ilacını
 Profilaksi: İnhibitörü olmamak şartı ile ağır hemofili hastalarına ve son 1 yılda meydana gelen kanamaları dikkate alındığında aylık ortalama kanama sayısı 3’ten fazla olan orta hemofili hastalarına, olası kanamaları önleyebilmek amacıyla koruma tedavisi (profilaksi) uygulanmaktadır. Profilaksi uygulanan Hemofili-A hastaları haftada 3 kez, Hemofili-B hastaları ise haftada 2 kez belirlenen miktarda faktör ilacı kullanmaktadırlar. Hastanın bir seferde kullanması gereken minimum faktör ilacı miktarı, hastanın kanındaki faktör miktarını %40’a çıkaracak şekilde belirlenmektedir. Ancak faktör ilaçları 250, 500 ve 1000 ünitelik flakonlar halinde bulunduğu için, hastalar bir seferde kullanmaları gereken minimum ilaç miktarını en az sayıda flakon ile karşılayacak kadar ilaç kullanmaktadırlar (örneğin bir seferde
 minimum 1110 ünite ilaç kullanması gereken bir hasta, 1000 ünitelik 1 flakon ve 250 ünitelik 1 flakon olmak üzere 1250 ünite ilaç kullanmaktadır).
 
-## PROBLEM TANIMI
+### PROBLEM TANIMI
 T. C. Sosyal Güvenlik Kurumu, hemofili hastalarının hayat kalitesini artırmak amacıyla profilaksi uygulamasını ödeme kapsamına almıştır. Bu bağlamda hastaların yılda 1 kez faktör miktarı ve inhibitör testleri tekrar edilerek, uygun olan hastalara 1 yıl boyunca profilaksi uygulanmaktadır. Profilaksi uygulanan hastalara, 4 haftalık ilaç gereksinimleri periyodik olarak gönderilmektedir. Buna göre, hematologların kullanımına yönelik olarak, profilaksi uygulanacak hemofili hastalarını belirlemek, gerekli ilaç miktarlarını hesaplamak ve hemofili hastaları hakkında bazı istatistiksel bilgiler elde etmek için bir program geliştirilmesi istenmektedir. 
 
 Bunun için, her hemofili hastası için aşağıdaki veriler programa girilecektir:
