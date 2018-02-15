@@ -2,10 +2,10 @@
 
 ### GENEL BİLGİLER
 
-### Hemofili Hastalığı:
+#### Hemofili Hastalığı:
 Pıhtılaşma sürecinde rol oynayan proteinlere, pıhtılaşma faktörleri denilmektedir. Bu faktörlerin eksikliği durumunda oluşan pıhtılaşma bozukluğuna, genel olarak kanama hastalıkları denilmektedir. En yaygın olarak görülen kanama hastalıkları ise, faktör-8 proteininin eksikliği olarak bilinen Hemofili-A ve faktör-9 proteininin eksikliği olarak bilinen Hemofili-B hastalıklarıdır.
 
-### Hemofili Hastalığının Şiddeti:
+#### Hemofili Hastalığının Şiddeti:
 Hemofili hastalığı olmayan bireylerde, % birimi ile ifade edilen kandaki pıhtılaşma faktörü miktarı, %50-%150 arasındadır. Hemofili hastalığının şiddeti ise, kandaki pıhtılaşma faktörü miktarına göre aşağıdaki şekilde belirlenmektedir:
 - Kandaki faktör miktarı
 - Hemofili hastalığının şiddeti
@@ -16,10 +16,10 @@ Hemofili hastalığı olmayan bireylerde, % birimi ile ifade edilen kandaki pıh
 - %5 veya – %5’den çok, %50’den az
 - Hafif
 
-### Hemofili Hastalığının Tedavisi: 
+#### Hemofili Hastalığının Tedavisi: 
 Hemofili hastaları, herhangi bir kanama durumunda ya da olası kanamaları önleyebilmek amacıyla koruma tedavisi (profilaksi) kapsamında, hastalığın türüne göre faktör-8 ya da faktör-9 adı verilen bir ilaç kullanmaktadırlar. Hastanın kullanması gereken ilaç miktarı (ünite birimi ile ifade edilir); hastanın kilosu, hastanın kanındaki faktör miktarı ve kanamanın türüne göre hedeflenen faktör miktarına bağlı olarak hesaplanır. KG başına 1 ünite faktör-8 ilacı verildiğinde, kandaki faktör-8 miktarı %2 kadar artarken, KG başına 1 ünite faktör-9 ilacı verildiğinde, kandaki faktör-9 miktarı %1 kadar artar. Faktör ilaçlarından insan kanından üretilenine “plazma kaynaklı faktör” (P), laboratuvar ortamında üretilenine “rekombinant faktör” (R) denilmektedir. 1 ünite plazma kaynaklı faktörün fiyatı 1,25 TL iken, 1 ünite rekombinant faktörün fiyatı 1,5 TL tutarındadır.
 
-### İnhibitör Varlığı: 
+#### İnhibitör Varlığı: 
 Bazı hemofili hastalarının bağışıklık sistemi, verilen faktör ilacını yabancı madde olarak algılayarak, bununla savaşmak için antikor üretebilmektedir. Bu da alınan faktör ilacının etkinliğini azaltmakta ya da yok etmektedir. İlgili faktör proteinine karşı üretilen antikor miktarı 5 üniteden yüksekse, hastada inhibitör var kabul edilmektedir.
 Profilaksi: İnhibitörü olmamak şartı ile ağır hemofili hastalarına ve son 1 yılda meydana gelen kanamaları dikkate alındığında aylık ortalama kanama sayısı 3’ten fazla olan orta hemofili hastalarına, olası kanamaları önleyebilmek amacıyla koruma tedavisi (profilaksi) uygulanmaktadır. Profilaksi uygulanan Hemofili-A hastaları haftada 3 kez, Hemofili-B hastaları ise haftada 2 kez belirlenen miktarda faktör ilacı kullanmaktadırlar. Hastanın bir seferde kullanması gereken minimum faktör ilacı miktarı, hastanın kanındaki faktör miktarını %40’a çıkaracak şekilde belirlenmektedir. Ancak faktör ilaçları 250, 500 ve 1000 ünitelik flakonlar halinde bulunduğu için, hastalar bir seferde kullanmaları gereken minimum ilaç miktarını en az sayıda flakon ile karşılayacak kadar ilaç kullanmaktadırlar (örneğin bir seferde
 minimum 1110 ünite ilaç kullanması gereken bir hasta, 1000 ünitelik 1 flakon ve 250 ünitelik 1 flakon olmak üzere 1250 ünite ilaç kullanmaktadır).
